@@ -1,4 +1,4 @@
-# flutter_carousel
+# Flutter Carousel Slider
 
 A new Flutter application.
 
