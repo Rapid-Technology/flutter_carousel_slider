@@ -1,6 +1,6 @@
 # Flutter Carousel Slider
 
-A new Flutter application.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/p3gFikowJVI/maxresdefault.jpg)](https://www.youtube.com/watch?v=p3gFikowJVI)
 
 ## Getting Started
 
